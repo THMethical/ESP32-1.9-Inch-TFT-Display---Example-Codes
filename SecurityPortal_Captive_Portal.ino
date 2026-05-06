@@ -81,7 +81,7 @@ void updateDisplay() {
   lcd.setCursor(10, 10);
   lcd.setTextColor(ST77XX_WHITE);
   lcd.setTextSize(2);
-  lcd.println("PENTEST C2 MODE");
+  lcd.println("WIFI LOOKI LOOKI");
 
   // Infos
   lcd.setCursor(10, 60);
